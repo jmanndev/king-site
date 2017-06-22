@@ -8,12 +8,21 @@ Black - 000000
 Light Grey - B3B3B7
 */
 
+body {
+}
+
 .btn-social {
     border-color: black;
 }
 
 .btn-outline {
     color: black;
+}
+
+.btn-social:hover{
+    background-color: #000000; 
+    color: #F47D33;
+    border-color: #000000;
 }
 
 h2 {
@@ -48,8 +57,10 @@ section.success {
     color: #F47D33;
 }
 
-footer .footer-below {
-    background: #000000;
+.navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover {
+    background-color: #F47D33;
+    border-color: #000000;
+    color: #000000;
 }
 
 .divider {
@@ -70,7 +81,6 @@ footer .footer-below {
     opacity: .9
 }
 
-.btn-social:hover{
-    background-color: #000000; 
-    color: #F47D33;
+footer .footer-below {
+    background: #000000;
 }
