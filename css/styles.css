@@ -1,0 +1,61 @@
+/* COLOURS:
+
+Grey - 404041
+White - ffffff
+Orange - F47D33
+Blue - 223843
+Black - 000000
+Light Grey - B3B3B7
+*/
+
+.btn-social {
+    border-color: black;
+}
+
+.btn-outline {
+    color: black;
+}
+
+h2 {
+    padding-bottom: 5px;
+    color: #F47D33;
+}
+
+.name {
+    color: #ffffff;
+}
+
+header {  
+    background: #000000;
+    color: #F47D33;
+}
+
+section.success {
+    background: #000000;
+}
+
+.navbar-custom {
+    background: #000000;
+}
+
+.navbar-custom .navbar-nav li a:hover {
+    color: #F47D33;
+}
+
+.navbar-custom .navbar-nav li.active a, .navbar-custom .navbar-nav li.active a:active, .navbar-custom .navbar-nav li.active a:focus, .navbar-custom .navbar-nav li.active a:hover
+{
+    background: transparent;
+    color: #F47D33;
+}
+
+footer .footer-below {
+    background: #000000;
+}
+
+.divider {
+    color: #000000; 
+    border:0;
+    border-top: 2px solid #B3B3B7;
+    border-bottom: 1px solid #ffffff;
+
+}
