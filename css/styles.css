@@ -59,3 +59,18 @@ footer .footer-below {
     border-bottom: 1px solid #ffffff;
 
 }
+
+#portfolio .portfolio-item .portfolio-link .caption {
+    background: #B3B3B7;
+}
+
+
+#portfolio .portfolio-item .portfolio-link .caption:hover {
+    background: #B3B3B7;
+    opacity: .9
+}
+
+.btn-social:hover{
+    background-color: #000000; 
+    color: #F47D33;
+}
